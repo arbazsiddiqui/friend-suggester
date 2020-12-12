@@ -1,6 +1,5 @@
 # userDirectory
-[![Build Status](https://travis-ci.com/arbazsiddiqui/friend-suggester.svg?branch=main)](https://travis-ci.com/arbazsiddiqui/friend-suggester)
-
+[![Build Status](https://travis-ci.com/arbazsiddiqui/friend-suggester.svg?branch=master)](https://travis-ci.com/arbazsiddiqui/friend-suggester)
 >A social network modules built on graph database.
 
 ### Getting Started
