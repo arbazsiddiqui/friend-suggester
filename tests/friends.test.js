@@ -95,7 +95,7 @@ describe('Friends test', () => {
   });
 
   describe('/friendRequests/:userName', () => {
-    it('gets all the friends of a user', async () => {
+    it('gets all the friends requests of a user', async () => {
       const userDataA = {
         userName: "testA",
         firstName: "testA",
