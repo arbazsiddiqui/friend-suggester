@@ -15,7 +15,7 @@
     "lodash": "^4.17.20",
     "method-override": "^3.0.0",
     "mongoose": "^5.10.16",
-    "neo4j-driver": "^4.2.1",
+    "neo4j-driver": "4.0.2",
     "request": "^2.88.2",
     "request-promise": "^4.2.6"
   },
