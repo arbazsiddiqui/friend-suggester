@@ -1,0 +1,26 @@
+{
+  "name": "friend-suggester",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server",
+    "test": "NODE_ENV=test mocha --timeout 30000 ./tests/**/*.test.js --exit"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bluebird": "^3.7.2",
+    "express": "^4.17.1",
+    "lodash": "^4.17.20",
+    "method-override": "^3.0.0",
+    "mongoose": "^5.10.16",
+    "neo4j-driver": "^4.2.1",
+    "request": "^2.88.2",
+    "request-promise": "^4.2.6"
+  },
+  "devDependencies": {
+    "mocha": "^7.1.0",
+    "should": "^13.2.3"
+  }
+}
