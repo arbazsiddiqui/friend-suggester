@@ -1,0 +1,7 @@
+language: node_js
+services:
+  - neo4j
+before_install:
+  - sudo systemctl restart neo4j
+node_js:
+  - 12
