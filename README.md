@@ -1,6 +1,6 @@
 # Friend Suggester
 [![Build Status](https://travis-ci.com/arbazsiddiqui/friend-suggester.svg?branch=master)](https://travis-ci.com/arbazsiddiqui/friend-suggester)
->A social network modules built on graph database.
+>A social network module built on graph database.
 
 ### Getting Started
 
